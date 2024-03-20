@@ -3,9 +3,11 @@
   "contributors": [
     "ProxV, Inc. <support@proxv.com> (http://proxv.com)"
   ],
+  "main": "./index.js",
+  "types": "./index.d.ts",
   "name": "xvfb",
   "description": "Easily start and stop an X Virtual Frame Buffer from your node apps.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "repository": {
     "url": "https://github.com/Rob--W/node-xvfb.git"
   },
